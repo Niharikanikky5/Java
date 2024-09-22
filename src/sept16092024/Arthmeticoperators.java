@@ -11,5 +11,4 @@ public class Arthmeticoperators {
             System.out.println(a*b);
             System.out.println(a/b);
         }
-
 }
