@@ -1,4 +1,4 @@
-package OCT02102024.ex04102024;
+package OCT.ex04102024;
 
 public class Person {
 

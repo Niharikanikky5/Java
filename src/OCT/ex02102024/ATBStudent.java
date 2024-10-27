@@ -1,4 +1,4 @@
-package OCT02102024.ex02102024;
+package OCT.ex02102024;
 
 public class ATBStudent {
     public static void main(String[] args) {

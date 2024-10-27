@@ -1,4 +1,4 @@
-package OCT02102024.ex04102024;
+package OCT.ex04102024;
 
 public class LAb001 {
     public static void main(String[] args) {
